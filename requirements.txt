@@ -1,0 +1,38 @@
+# Weather Analytics System Dependencies
+# Data Processing & Analysis
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.2.2
+
+# Web Framework & API
+flask==2.3.2
+flask-cors==4.0.0
+flask-restx==0.5.1
+
+# Database
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.6
+
+# Data Visualization
+matplotlib==3.7.1
+plotly==5.14.0
+seaborn==0.12.2
+
+# API Requests
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==1.10.12
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Code Quality
+flake8==6.0.0
+black==23.7.0
+
+# Utilities
+python-dateutil==2.8.2
+click==8.1.3
